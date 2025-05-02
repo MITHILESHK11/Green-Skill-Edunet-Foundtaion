@@ -82,5 +82,4 @@ This project is licensed under the MIT License.
 For any inquiries or feedback, please contact [MITHILESHK11](https://github.com/MITHILESHK11).
 
 ```
-::contentReference[oaicite:0]{index=0}
- 
+
